@@ -7,7 +7,7 @@ pretrained/CLIP-*/
 *.bin
 
 # 数据集
-datasets/
+/datasets/
 *.tar.gz
 
 # Python
