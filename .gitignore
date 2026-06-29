@@ -1,0 +1,31 @@
+# 大权重文件
+pretrained/CKPT/
+pretrained/*.pth
+pretrained/*.bin
+pretrained/CLIP-*/
+*.pth
+*.bin
+
+# 数据集
+datasets/
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# Conda
+.environment/
+detectron2_env/
+vision/
+.ipynb_checkpoints/
+BaiduPCS-Go-v3.9.8-linux-amd64/
+checkpoints.tar.gz
+detectron2/

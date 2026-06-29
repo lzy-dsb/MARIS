@@ -1,0 +1,4 @@
+# ninja log v7
+1	8073	1780843908184813124	/mnt/workspace/MARIS/maris/modeling/GPEM/ops/build/temp.linux-x86_64-3.10/mnt/workspace/MARIS/maris/modeling/GPEM/ops/src/cpu/ms_deform_attn_cpu.o	4ff1073cac7a53db
+1	18515	1780843908184813124	/mnt/workspace/MARIS/maris/modeling/GPEM/ops/build/temp.linux-x86_64-3.10/mnt/workspace/MARIS/maris/modeling/GPEM/ops/src/cuda/ms_deform_attn_cuda.o	1df4e23b5bf1626
+1	21255	1780843908184813124	/mnt/workspace/MARIS/maris/modeling/GPEM/ops/build/temp.linux-x86_64-3.10/mnt/workspace/MARIS/maris/modeling/GPEM/ops/src/vision.o	d422cb6e78f881d8
